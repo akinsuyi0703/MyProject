@@ -1,0 +1,13 @@
+2022.11 06.12:44:04 [main] INFO  com.mystore.base.BaseClass - StartTestCase
+"2022.11 06.12:44:04 [main] INFO  com.mystore.base.BaseClass - user is going to click on signin
+"2022.11 06.12:44:06 [main] INFO  com.mystore.base.BaseClass - enter username and password
+"2022.11 06.12:44:08 [main] INFO  com.mystore.base.BaseClass - Verifying if user is able to login
+"2022.11 06.12:44:08 [main] INFO  com.mystore.base.BaseClass - Login is succesful
+"2022.11 06.12:44:08 [main] INFO  com.mystore.base.BaseClass - endTestCase
+"2022.11 06.12:48:26 [main] INFO  com.mystore.base.BaseClass - StartTestCase
+"2022.11 06.12:48:26 [main] INFO  com.mystore.base.BaseClass - user is going to click on signin
+"2022.11 06.12:48:32 [main] INFO  com.mystore.base.BaseClass - enter username and password
+"2022.11 06.12:48:36 [main] INFO  com.mystore.base.BaseClass - Verifying if user is able to login
+"2022.11 06.12:48:36 [main] INFO  com.mystore.base.BaseClass - Login is succesful
+"2022.11 06.12:48:36 [main] INFO  com.mystore.base.BaseClass - endTestCase
+"
